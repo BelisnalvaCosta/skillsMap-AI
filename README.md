@@ -1,6 +1,6 @@
 # SkillMap AI
 
-Projeto desenvolvimento na IDE Visual Studio Code com a oritanção do professor Máio Martins (DIO).
+Projeto desenvolvimento na IDE Visual Studio Code com a orientação do professor Mário Martins (DIO).
 
 Sistema web para **mapear habilidades pessoais e gerar ideias de renda automaticamente**.
 
@@ -154,4 +154,4 @@ Este projeto pode ser utilizado para fins educacionais e de aprendizado.
 
 # Agradecimentos
 
-Agradecimento especial ao **Professor Mário Martins** (DIO), cuja orientação e compartilhamento de conhecimento contribuíram para o desenvolvimento e aprimoramento deste projeto.
+Agradecimento especial ao **Professor Mário Martins** (DIO), cuja orientação e compartilhamento de conhecimento contribuíram para o desenvolvimento e aprimoramento deste projeto. E 
