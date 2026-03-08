@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+
+<meta charset="UTF-8">
+<title>SkillMap AI</title>
+
+<link rel="stylesheet" href="style.css">
+
+</head>
+
+<body>
+
+<div class="container">
+
+<h1>SkillMap AI</h1>
+
+<p class="subtitle">
+Sistema inteligente para analisar habilidades e gerar oportunidades de renda
+</p>
+
+<div class="input-area">
+
+<input id="skillInput" placeholder="Digite uma habilidade">
+
+<button onclick="addSkill()">Adicionar</button>
+
+</div>
+
+<h2>Mapa de Habilidades</h2>
+
+<ul id="skillList"></ul>
+
+<button class="analyze" onclick="analyzeSkills()">
+Analisar Habilidades
+</button>
+
+<div id="analysis"></div>
+
+<button class="generate" onclick="generateIncomeIdeas()">
+Gerar Ideias de Renda
+</button>
+
+<div id="ideas"></div>
+
+</div>
+
+<script src="script.js"></script>
+
+</body>
+
+</html>
