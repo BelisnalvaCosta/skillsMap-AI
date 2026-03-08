@@ -154,4 +154,4 @@ Este projeto pode ser utilizado para fins educacionais e de aprendizado.
 
 # Agradecimentos
 
-Agradecimento especial ao **Professor Mário Martins** (DIO), cuja orientação e compartilhamento de conhecimento contribuíram para o desenvolvimento e aprimoramento deste projeto. E 
+Agradecimento especial ao **Professor Mário Martins** (DIO), cuja orientação e compartilhamento de conhecimento contribuíram para o desenvolvimento e aprimoramento deste projeto, e Caxia Econômica Federal parceira da DIO
