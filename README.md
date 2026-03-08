@@ -1,5 +1,9 @@
 # SkillMap AI
 
+<img width="580" height="352" alt="image" src="https://github.com/user-attachments/assets/f4c5549c-6e16-4464-b71d-6f872c2879ab" />
+
+https://belisnalvacosta.github.io/skillsMap-AI/
+
 Projeto desenvolvimento na IDE Visual Studio Code com a orientação do professor Mário Martins (DIO).
 
 Sistema web para **mapear habilidades pessoais e gerar ideias de renda automaticamente**.
