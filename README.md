@@ -1,4 +1,4 @@
-# SkillsMap AI
+# SkillMap AI
 
 <img width="580" height="352" alt="image" src="https://github.com/user-attachments/assets/f4c5549c-6e16-4464-b71d-6f872c2879ab" />
 
